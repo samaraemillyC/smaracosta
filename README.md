@@ -1,7 +1,7 @@
 ## Oie!
 
 ### Me chamo Samara Costa e atualmente curso Sistemas de Informação.
-<div align="left">
+<div align="center">
   <a href="https://github.com/smaracosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smaracosta&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   
