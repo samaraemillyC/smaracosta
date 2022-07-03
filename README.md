@@ -1,8 +1,10 @@
-## Oii! Eu sou a Samara Costa!
+## Oie!
 
-<div align="center">
+### Me chamo Samara Costa e atualmente curso Sistemas de Informação.
+<div align="left">
   <a href="https://github.com/smaracosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smaracosta&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaracosta&layout=compact&langs_count=7&theme=aura"/>
 </div>
   <div style="display: inline_block"><br>
