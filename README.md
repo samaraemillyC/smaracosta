@@ -1,6 +1,6 @@
-## Oie!
+## Olá!
 
-### Me chamo Samara Costa e atualmente curso Sistemas de Informação.
+### Me chamo Samara e atualmente curso Sistemas de Informação.
   
   ##
  
