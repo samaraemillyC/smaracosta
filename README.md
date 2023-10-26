@@ -1,13 +1,8 @@
 # Samara Costa
-Hi guys! My name is Samara, and I intend to be a software developer! 
-
-I have an affinity with the backend, and nowadays I'm studying Java and Spring Boot Framework. 
-
+Hi guys! My name is Samara, and I intend to be a software developer! I have an affinity with the backend, and nowadays I'm studying Java and Spring Boot Framework. 
 And I know a little of english 😅
 
-Oii Galera! Eu me chamo Samara, e eu pretendo ser uma desenvolvedora de softwares!
-
-Eu tenho uma afinidade pelo backend, e atualmente eu estou estudando Java e o Framewor Spring Boot.
+Oii Galera! Eu me chamo Samara, e eu pretendo ser uma desenvolvedora de softwares! Eu tenho uma afinidade pelo backend, e atualmente eu estou estudando Java e o Framewor Spring Boot.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/samara_emilly2013/)
